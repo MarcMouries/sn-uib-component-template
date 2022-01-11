@@ -2,6 +2,11 @@
 
 Template to create a Now Experience Component
 
+## Features
+
+- (WIP) Provides placeholder for sample data
+- 
+
 ## Installation 
 
 1. clone repository
