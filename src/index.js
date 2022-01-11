@@ -1,0 +1,1 @@
+import './x-snc-mycomponent';
