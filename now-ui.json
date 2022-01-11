@@ -1,0 +1,16 @@
+{
+	"components": {
+	    "x-snc-mycomponent": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Marc's Firework Component",
+				"icon": "document-outline",
+				"description": "A Firework component",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_snc_mycomponent"
+
+}
