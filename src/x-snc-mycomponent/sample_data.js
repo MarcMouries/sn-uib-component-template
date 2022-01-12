@@ -1,14 +1,14 @@
 export const TASK_LIST = [
     {
-            taskId: 0,
-            title: 'ToDo'
+            Id: 0,
+            description: 'ToDo'
     },
     {
-            taskId: 1,
-            title: 'Work in Progress'
+            Id: 1,
+            description: 'Work in Progress'
     },
     {
-            taskId: 2,
-            title: 'Done'
+            Id: 2,
+            description: 'Done'
     }
 ];
