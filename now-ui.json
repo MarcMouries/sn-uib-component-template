@@ -8,7 +8,18 @@
 				"icon": "document-outline",
 				"description": "A Firework component",
 				"category": "primitives"
-			}
+			},
+			"properties": [
+                {
+                    "name": "data",
+                    "label": "data label",
+                    "description": "",
+                    "readOnly": false,
+                    "fieldType": "string",
+                    "required": true,
+                    "defaultValue": "Here is some default text"
+                }
+            ]
 	    }
 	},
 	"scopeName": "x_snc_mycomponent"
