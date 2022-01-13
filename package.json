@@ -2,7 +2,7 @@
 	"name": "@marc/x-snc-mycomponent",
 	"version": "0.0.1",
 	"private": false,
-	"description": "Does what a component has to do",
+	"description": "Does what a component got to do",
 	"keywords": [
 		"ServiceNow",
 		"Now Experience UI Component",
@@ -15,17 +15,17 @@
 	},
 	"module": "src/index.js",
 	"dependencies": {
-		"@servicenow/cli-archetype": "20.0.0",
-		"@servicenow/cli-component-archetype": "20.0.0",
-		"@servicenow/library-translate": "quebec",
-		"@servicenow/sass-kit": "quebec",
-		"@servicenow/sass-theme": "quebec",
-		"@servicenow/ui-core": "quebec",
-		"@servicenow/ui-renderer-snabbdom": "quebec",
-		"react-error-overlay": "^6.0.9"
+		"@servicenow/cli-archetype": "rome",
+		"@servicenow/cli-component-archetype": "rome",
+		"@servicenow/library-translate": "rome",
+		"@servicenow/sass-kit": "rome",
+		"@servicenow/sass-theme": "rome",
+		"@servicenow/ui-core": "rome",
+		"@servicenow/ui-renderer-snabbdom": "rome"
 	},
 	"devDependencies": {
-		"@servicenow/cli-archetype-dev": "20.0.0",
-		"@servicenow/cli-component-archetype-dev": "20.0.0"
+		"@servicenow/cli-archetype-dev": "rome",
+		"@servicenow/cli-component-archetype-dev": "rome",
+		"react-error-overlay": "^6.0.9"
 	}
 }
