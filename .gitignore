@@ -1,3 +1,8 @@
+
+# Now Experience
+target/
+.now-cli/
+
 # Logs
 logs
 *.log
