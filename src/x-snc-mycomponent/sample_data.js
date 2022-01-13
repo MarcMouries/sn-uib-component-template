@@ -1,14 +1,5 @@
 export const TASK_LIST = [
-    {
-            Id: 0,
-            description: 'ToDo'
-    },
-    {
-            Id: 1,
-            description: 'Work in Progress'
-    },
-    {
-            Id: 2,
-            description: 'Done'
-    }
+    { "id": 0, "description": 'ToDo' },
+    { "id": 1, "description": 'Work in Progress'},
+    { "id": 2, "description": 'Done' }
 ];
