@@ -1,27 +1,24 @@
 {
 	"components": {
-	    "x-snc-mycomponent": {
-	        "innerComponents": [],
+		"x-snc-mycomponent": {
+			"innerComponents": [],
 			"uiBuilder": {
 				"associatedTypes": ["global.core", "global.landing-page"],
-				"label": "Marc's Firework Component",
+				"description": "Component Template",
+				"category": "Component",
 				"icon": "document-outline",
-				"description": "A Firework component",
-				"category": "primitives"
+				"label": "Component Template"
 			},
-			"properties": [
-                {
-                    "name": "data",
-                    "label": "data label",
-                    "description": "",
-                    "readOnly": false,
-                    "fieldType": "string",
-                    "required": true,
-                    "defaultValue": "Here is some default text"
-                }
-            ]
-	    }
+			"properties": [{
+				"description": "Array of items to display",
+				"fieldType": "json",
+				"label": "items",
+				"name": "items",
+				"readOnly": false,
+				"required": true,
+				"defaultValue": "[{\"Id\":1,\"description\":\"Jane\"},{\"Id\":2,\"description\":\"John\"}]"
+			}]
+		}
 	},
 	"scopeName": "x_snc_mycomponent"
-
 }
