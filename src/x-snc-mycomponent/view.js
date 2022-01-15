@@ -1,5 +1,12 @@
 export default (state, { dispatch }) => {
 
+	/* 
+	deconstructing syntax 
+		const { properties } = state;
+	is equivalent to:
+		const properties     = state.properties;
+
+	*/
 	const { properties } = state;
 
 	return (
