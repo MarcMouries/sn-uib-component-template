@@ -2,6 +2,8 @@
 
 Template to create a Now Experience Component
 
+1. Simploy 
+
 ## Features
 
 - shows how to pass data for sample data
