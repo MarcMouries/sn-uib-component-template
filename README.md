@@ -2,7 +2,8 @@
 
 Template to create a Now Experience Component
 
-1. Simploy 
+1. Simply click on the button "use this template" to create a repository for a new ServiceNow component 
+2. Edit in VS Code and rename "mycomponent" by the name of the new component 
 
 ## Features
 
