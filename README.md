@@ -57,7 +57,7 @@ Template to create a Now Experience Component
 
 6. Add, commit and push those edits back to your fork on GitHub
 
-7. Suggest the changes that you made, to be added to the origianl repo using a pull request
+7. Suggest the changes that you made, to be added to the original repo using a pull request
 
 
 
